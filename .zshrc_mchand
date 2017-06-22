@@ -3,7 +3,7 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/mahendiran/.oh-my-zsh
-source ~/mchand_env/yubikey_customization
+source ~/dev_env_customizations/yubikey_customization
 alias lbconfigs="/Users/mahendiranchandrasekar/devtools/updatelbconfigs.sh"
 unsetopt share_history
 
