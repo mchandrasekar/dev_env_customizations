@@ -1,0 +1,9 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "15ebc089-ca29-4a3d-a09e-89816ba0d3a2"
+  welcome:
+    showOnStartup: false
