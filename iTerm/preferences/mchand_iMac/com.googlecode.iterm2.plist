@@ -1189,7 +1189,7 @@
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 80 2551 1337 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 95 2551 1322 0 0 2560 1417 </string>
+	<string>1020 549 890 677 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>364 158 890 677 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1837,6 +1837,8 @@
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>519000770.565952</real>
 	<key>PMPrintingExpandedStateForPrint2</key>
@@ -1887,7 +1889,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-14T18:07:01Z</date>
+	<date>2017-06-22T17:01:58Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>WordCharacters</key>
