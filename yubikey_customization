@@ -1,0 +1,6 @@
+getpass () {
+	security -q find-generic-password -a `whoami` -w -s $1
+}
+
+alias ssh="getpass ykpin | memento ssh-add -silent; ssh"
+alias scp="getpass ykpin | memento ssh-add -silent; scp"
